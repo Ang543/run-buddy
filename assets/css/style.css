@@ -139,7 +139,7 @@ body {
   .secondary-border {
     border-color: #39a6b2;
   }
-  
+
   .intro {
     text-align: center;
   }
@@ -149,10 +149,6 @@ body {
     color: #39a6b2;
     width: 80%;
     font-size: 20px;
-  }
-
-  .intro p {
-    /* add this alongside your other declarations */
     margin: 0 auto;
   }
 
@@ -184,5 +180,3 @@ body {
   .steps span {
     font-size: 38px;
   }
-
-  
